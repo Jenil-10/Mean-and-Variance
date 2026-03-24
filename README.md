@@ -1,3 +1,5 @@
+# DATE : 28/01/26
+
 #  Mean and variance of a discrete  distribution
 
 
